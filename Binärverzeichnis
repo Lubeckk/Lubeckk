@@ -1,0 +1,84 @@
+Titel: Ungewöhnliche Verbindung zu Active Directory - Echtzeit
+
+
+Beschreibung: 
+ 
+ Eine Informatiker technischer Merkmale (Directory/Registry) von Rechenzentren umfasst im Kern binäre (ja/nein, 0/1) Kriterien, messbare Leistungsparameter und Infrastrukturkomponenten. Diese Daten dienen der Evaluierung von Standorten hinsichtlich Leistung, Effienz und Sicherheit.
+
+
+ Erkennt ungewöhnliche zu Active Diretory Web von Prozessen, die normalerweise nicht mit der Verwaltung in Verbindung stehen. Ein solches Resgistry hilft Unternehmen, dass passende Rechenzentrum basierend auf den spezifischen technischen Anforderungen zu identifizieren. In der Datenbank selbst werden diese Merkmale oft als binare Flasche gespeichert, um schnelle Filterungen zu ermöglichen.
+
+ Verbindung zu einem Binärverzeichnis (oft 'bin' oder 'usr/geo/bin') Dies beinhaltet die Verwaltung von ausfuhrbaren Systemdateien oder die Definition von PATH-Variablen, um diese zu finden. Sie speichern wichtige Binärdateien ('ls','cp') oder kundenspezifische Anwendungen. Zu den wichtigsten Methoden gehoren das Anhangen von Pfaden an Umgebungsvariablen.
+
+
+Referenzen:
+
+- https://www.umweltbundesamt.de/sites/default/files/medien/11850/publikationen/70_2025_texte_.pdf
+-https://https://mibeon.com/docs/linux/grundlagen/verzeichnisstruktur/bin/
+
+Autor: '@Lubeckk'
+
+ (RaaS) Refractoring as a Service
+
+Einen Cloud-basierten Service, der KünstlicheIntelligenz und zahlreiche andere moderne Techniken vereint, um Code vollkommen automatisch uberarbeiten zu können.
+
+
+- PoshFunctions Modul '@kostastsale'
+
+
+ Wichtige Hinweise 
+
+ Das Einlesen ganzer Dateienvielen/großen Dateien langsam. Besser ist es, nur die ersten Kilobyte zu lesen
+
+Datum: 07.02.2026(-Plain Binar/ Plain Text) ist bei 
+
+Tags:
+
+-TTP Hinweisen 
+
+- .t1027.011 Dateispeicherung
+- .t1480.001 Umweltkodierung
+- .t1530 Daten aus Cloud-Objekt
+- .t1213 Daten aus Informationsrepositorien
+- Opcode-Antwort 1002 
+
+logsource:
+
+Kategorie: Netzwerkdaten/ Heap-daten
+
+Produkt: Windows
+
+
+Zeitrahmen: letzte 2 Stunden
+
+Auswahl:
+
+Eingeleitet: WAHR
+
+Zielhafen: 9389
+
+Filter:
+
+Bild endet mit:
+
+-'\dsac.exe'
+
+-'.ps1/.psm1'
+
+
+Zustand: Auswahl und nicht Filter
+
+falsch-positive Ergebnisse:
+
+-Einer Reihe legitimer Anwendungen genützt, die mit Active Directory interagieren müssen. Diese Anwendungen sollten der Zulassungsliste hinzugefügt werden, um Falscher genauen.
+
+- has_UPS: 1 (Ja)/0 (Nein)
+- certified_iso27001: 1 (Ja)/0 (Nein)
+- carrier_neutral: 1 (Ja)/0 (Nein)
+- redundant_cooling: 1 (Ja)/0 (Nein)
+
+
+
+Ebene: Medium
+
+Ausweis: '@kostastsale'- b3ad3c0f-c949-47a1-a30e-b0491ccae876
