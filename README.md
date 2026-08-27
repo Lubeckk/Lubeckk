@@ -1,22 +1,17 @@
-- 👋 Hi, I’m @VerrenNox Engineer and Data Scientist
-  for SOCprime in Dtat threat. I will be list only two
-  types of repositories here. Patchwork and Remediation.
+- 👋 Hallo, ich bin @Lubeckk – Ingenieur, Daten Wissenschaftler im Bereich Data Threat Forensik.  Ich werde hier nur zwei Arten von Repositories auflisten: Patchwork und Remediation.
 
-- 👀 I’m interested in all the Metrics and Technology. 
+- 👀 Ich interessiere mich für sämtliche Metriken und Technologien.
 
-- 🌱 I’m currently learning as Ai learns from technology and grows in
- an Holonomy.
+- 🌱 Ich lerne derzeit – ganz so, wie KI aus Technologie lernt und innerhalb einer Holonomie wächst.
 
-- 💞️ I’m looking to collaborate on discussing more binary
- in Metadata also in creating Metadata annotations. 
+- 💞️ Ich suche nach Möglichkeiten zur Zusammenarbeit, insbesondere für Diskussionen über Binärdaten in Metadaten sowie für die Erstellung von Metadaten-Annotationen.
 
-- 📫 How to reach me my email is DatadeepRSS@outlook.com
- 
-- 😄 Pronouns: He/ Him/ Non -Pronouns: Dude
-  
-- ⚡ Fun fact: I like seeing environmental spatials
+- 📫 So erreichen Sie mich: Schreiben Sie mir eine Nachricht unter https://bsky.app/profile/ananox.bsky.social
 
-<!---
-VerrenNox/VerrenNox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Pronomen: He/Him | Alternative Anrede: Dude
+
+- ⚡ Fun Fact: Ich liebe es, neue Umgebungen und Räume zu erkunden.
+
+Lubeckk/Lubeckk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
